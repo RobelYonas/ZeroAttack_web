@@ -1,0 +1,4 @@
+project_id = "vbntpdgxzqkgvueuljag"
+
+[functions.analyze-packet]
+verify_jwt = false
